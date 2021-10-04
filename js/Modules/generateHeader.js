@@ -3,9 +3,9 @@ const generateHeader = (block) => {
     const header = `
     <div class="header w-100 d-flex flex-column align-items-center">
         <div class="brand d-flex flex-column align-items-center text-center mt-2">
-            <a href="./index.html"><img class="img-fluid" src="./img/face_logo_new.png"/></a>
-            <h1>MICSECS 2020</h1>
-            <div>The Majorov International Conference on Software Engineering and Computer Systems</div>
+            <a href="./index.html"><img class="img-fluid" src="./img/SEEL22_banner.jpg"/></a>
+            <h1>PhD FORUM 2022</h1>
+            <div>International PhD student forum «Smart Learning, Smart Education, Smart Universities»</div>
         </div>
         <nav class="navbar navbar-expand-lg text-center">
             <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarToggler"
@@ -20,10 +20,11 @@ const generateHeader = (block) => {
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./call.html">Call for Papers</a>
                     </li>
+                    <!--
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./registration.html">Registration</a>
                     </li>
-                    <!--
+                    
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./program.html">Program</a>
                     </li>
@@ -32,6 +33,8 @@ const generateHeader = (block) => {
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./publications.html">Publications</a>
                     </li>
+                    
+                    
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./organization.html">Organization</a>
                     </li>
