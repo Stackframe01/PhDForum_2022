@@ -6,7 +6,7 @@ const generateFooter = block => {
             </div>
             <div>
                 <p>©  International PhD Student Forum «Smart Learning, Smart Education, Smart Universities» - 2022</p>
-                <p>Forum date: June 20-22, Online &amp; Rhodes, Greece</p>
+                <p>Forum dates: June 20-22, Online &amp; Rhodes, Greece</p>
             </div>
         </footer>
         <noscript><div><img src="https://mc.yandex.ru/watch/68073283" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
