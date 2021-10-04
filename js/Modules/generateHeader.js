@@ -23,9 +23,12 @@ const generateHeader = (block) => {
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./registration.html">Registration</a>
                     </li>
+                    <!--
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./program.html">Program</a>
                     </li>
+                    -->
+                    
                     <li class="nav-item">
                         <a class="nav-link menu-item" href="./publications.html">Publications</a>
                     </li>
