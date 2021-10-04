@@ -5,8 +5,8 @@ const generateFooter = block => {
                 <a href="//itmo.ru"><img class="mx-auto d-block img-fluid" src="./img/itmo_logo_horiz_white_en.png"/></a>
             </div>
             <div>
-                <p>©  MICSECS 2020 - The Majorov International Conference on Software Engineering and Computer Systems</p>
-                <p>Conference date: December 10-11, Online &amp; Saint Petersburg, Russia</p>
+                <p>©  International PhD student forum «Smart Learning, Smart Education, Smart Universities» 2022</p>
+                <p>Forum date: June 20-22, Online &amp; Rhodes, Greece</p>
             </div>
         </footer>
         <noscript><div><img src="https://mc.yandex.ru/watch/68073283" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
