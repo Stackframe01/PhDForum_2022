@@ -3,7 +3,7 @@ const generateHeader = (block) => {
     const header = `
     <div class="header w-100 d-flex flex-column align-items-center">
         <div class="brand d-flex flex-column align-items-center text-center mt-2">
-            <a href="./index.html"><img class="img-fluid" src="./img/SEEL22_banner.jpg"/></a>
+            <a href="./index.html"><img class="img-fluid" src="./img/SEEL22_banner-01.jpg"/></a>
             <h1>PhD FORUM 2022</h1>
             <div>International PhD student forum «Smart Learning, Smart Education, Smart Universities»</div>
         </div>
