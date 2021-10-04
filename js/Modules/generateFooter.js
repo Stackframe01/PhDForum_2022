@@ -2,8 +2,8 @@ const generateFooter = block => {
     const footer = `
         <footer class="w-100 mt-2 text-center footer">
             <div class="sponsors">
-                <a href="//itmo.ru"><img class="mx-auto d-block img-fluid" src="./img/itmo_logo_horiz_white_en.png"/></a>
-                <a href="https://www.springer.com/series/8767"><img class="mx-auto d-block img-fluid" src="./img/springerlogo.jpg"/></a>
+                <p><a href="//itmo.ru"><img class="mx-auto d-block img-fluid" src="./img/itmo_logo_horiz_white_en.png"/></a>
+                <a href="https://www.springer.com/series/8767"><img class="mx-auto d-block img-fluid" src="./img/springerlogo.jpg"/></a> </p>
                 
             </div>
             <div>
