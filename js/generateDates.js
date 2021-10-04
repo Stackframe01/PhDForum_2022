@@ -8,7 +8,7 @@ const generateDates = () => {
                     ${datesList.join('')}
                 </ul>               
                 <p> 
-                    <strong>All deadlines are for the Moscow time zone, 23:59.</strong>
+                    <strong>All deadlines are for the GTM time zone, 23:59.</strong>
                 </p>
             `
             document.querySelector('.dates').insertAdjacentHTML('afterbegin', html);
