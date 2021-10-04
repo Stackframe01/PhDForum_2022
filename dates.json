@@ -1,26 +1,30 @@
 [
   {
     "title": "The begin of the participant registration",
-    "date": "5 October 2020"
+    "date": "1 December 2021"
   },
   {
     "title": "Paper submission",
-    "date": "5 November 2020 (extended: 15 November 2020)"
+    "date": "10 January 2022"
   },
   {
     "title": "Author notification",
-    "date": "4 Demeber 2020"
+    "date": "1 March 2022"
   },
-  {
-    "title": "Conference program publication",
-    "date": "5 December 2020"
-  },
-  {
-    "title": "Conference",
-    "date": "10-11 December 2020"
-  },
+  
   {
     "title": "Camera-ready paper submission",
-    "date": "30 January 2021"
+    "date": "31 March 2022"
+  },
+  
+  {
+    "title": "Conference program publication",
+    "date": "10 May 2022"
+  },
+  
+  {
+    "title": "Conference",
+    "date": "20-22 June 2022"
   }
+  
 ]
