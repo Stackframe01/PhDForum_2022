@@ -4,8 +4,9 @@ const generateFooter = block => {
             <div class="sponsors">
                 <a href="//itmo.ru"><img class="mx-auto d-block img-fluid" src="./img/itmo_logo_horiz_white_en.png"/></a>
                 <a href="https://www.springer.com/series/8767"><img class="mx-auto d-block img-fluid" src="./img/springerlogo.jpg"/></a>
+                <p>   </p>
                 <a href=""><img class="mx-auto d-block img-fluid" src="./img/logo_wcseit.png"/></a>
-                
+                <p>   </p>
             </div>
             <div>
                 <p>©  International PhD Student Forum «Smart Learning, Smart Education, Smart Universities» - 2022</p>
