@@ -7,6 +7,9 @@ const generateFooter = block => {
                 <p>   </p>
                 <a href=""><img class="mx-auto d-block img-fluid" src="./img/logo_wcseit.png"/></a>
                 <p>   </p>
+                <p>   </p>
+                <a href=""><img class="mx-auto d-block img-fluid" src="./img/logo_COPEC.png"/></a>
+                <p>   </p>
             </div>
             <div>
                 <p>©  International PhD Student Forum «Smart Learning, Smart Education, Smart Universities» - 2022</p>
