@@ -4,8 +4,8 @@ const generateHeader = (block) => {
     <div class="header w-100 d-flex flex-column align-items-center">
         <div class="brand d-flex flex-column align-items-center text-center mt-2">
             <a href="./index.html"><img class="img-fluid" src="./img/SEEL22_banner-01.jpg"/></a>
-            <h1>PhD FORUM 2022</h1>
-            <div>International PhD student forum «Smart Learning, Smart Education, Smart Universities»</div>
+            <h1>Ph.D. FORUM 2022</h1>
+            <div>International Ph.D. Student Forum «Smart Education – Smart e-Learning – Smart University – Smart Pedagogy»</div>
         </div>
         <nav class="navbar navbar-expand-lg text-center">
             <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarToggler"
